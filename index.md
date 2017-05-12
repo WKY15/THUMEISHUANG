@@ -6,7 +6,7 @@
 <p>步骤2：按图示组装好</p>
 <p>步骤3：用Arduino编写好代码，谱曲很蛋疼</p>
 <p>步骤4：点击上传，就可以听到蜂鸣器播放的旋律，反复调试，得到想要的音乐</p>
-<p>![蜂鸣器](THUMEISHUANG/fmq.JPG)</p>
+<p>![蜂鸣器](https://github.com/WKY15/THUMEISHUANG/blob/master/fmq.JPG)</p>
 
 ### 声光控灯
 
@@ -14,5 +14,5 @@
 <p>步骤2：按图示组装好</p>
 <p>步骤3：用Arduino编写好代码，注意必须同时达到光照度和音量的条件才能触发灯亮</p>
 <p>步骤4：点击上传，反复调试，直到灯可以被随心所欲地控制</p>
-<p>![灯](THUMEISHUANG/d.jpg)</p>
+<p>![灯](https://github.com/WKY15/THUMEISHUANG/blob/master/d.jpg)</p>
 
