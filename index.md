@@ -6,7 +6,7 @@
 <p>步骤2：按图示组装好</p>
 <p>步骤3：用Arduino编写好代码，谱曲很蛋疼</p>
 <p>步骤4：点击上传，就可以听到蜂鸣器播放的旋律，反复调试，得到想要的音乐</p>
-<p>[Image](https://github.com/WKY15/THUMEISHUANG/blob/master/蜂鸣器.jpg)</p>
+<p>[Image text](https://github.com/WKY15/THUMEISHUANG/blob/master/蜂鸣器.jpg)</p>
 <p>[Video](https://github.com/WKY15/THUMEISHUANG/blob/master/蜂鸣器.mp4)</p>
 
 # Header 1
