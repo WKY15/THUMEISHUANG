@@ -8,7 +8,7 @@
 <p>步骤4：点击上传，就可以听到蜂鸣器播放的旋律，反复调试，得到想要的音乐</p>
 <img src="https://github.com/WKY15/THUMEISHUANG/blob/master/fmq.JPG">
 
-![图1](blob/master/fmq.JPG)
+![图1](/fmq.JPG)
 
 [code](github.com/WKY15/THUMEISHUANG/blob/master/sketch_may03a.ino)
 
