@@ -18,6 +18,6 @@
 <p>步骤3：用Arduino编写好代码，注意必须同时达到光照度和音量的条件才能触发灯亮</p>
 <p>步骤4：点击上传，反复调试，直到灯可以被随心所欲地控制</p>
 
-![图2](/d.JPG)
+![图2](/d.jpg)
 
 [code](https://github.com/WKY15/THUMEISHUANG/blob/master/sketch_may12a.ino)
