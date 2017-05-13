@@ -11,6 +11,8 @@
 
 [code](https://github.com/WKY15/THUMEISHUANG/blob/master/sketch_may03a.ino)
 
+[video](https://github.com/WKY15/THUMEISHUANG/blob/master/fmq.mp4?raw=true)
+
 ### 声光控灯
 
 <p>步骤1：从MICRODUINO百宝箱中找出所需的模块</p>
@@ -21,3 +23,5 @@
 ![图2](/d.jpg)
 
 [code](https://github.com/WKY15/THUMEISHUANG/blob/master/sketch_may12a.ino)
+
+[video](https://github.com/WKY15/THUMEISHUANG/blob/master/d.mp4?raw=true)
